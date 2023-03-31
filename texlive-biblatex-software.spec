@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-software
 Version:	64030
-Release:	1
+Release:	2
 Summary:	BibLaTeX stylefiles for software products
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-software
