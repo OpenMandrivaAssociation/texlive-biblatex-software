@@ -3,7 +3,7 @@ Version:	64030
 Release:	2
 Summary:	BibLaTeX stylefiles for software products
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-software
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-software
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-software.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-software.doc.r%{version}.tar.xz
